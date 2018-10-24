@@ -1,0 +1,27 @@
+body{
+	background: white;
+}
+
+h1, h2, p {
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+.instructions{
+	margin: 10px;
+	border: solid;
+	color: black;
+	background: white;
+}
+
+.gameTitle{
+	text-transform: capitalize;
+}
+
+.gameboard{
+	background: black;
+	/*background-image: url("images/card-table-background");*/
+}
