@@ -1,5 +1,33 @@
 body{
 	background: white;
+	margin: 0;
+}
+
+header{
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+}
+
+main{
+	width: 850px;
+	margin: 35px auto;
+}
+
+nav{
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	padding: 20px 0;
+	text-align: center;
+
+}
+
+.nav{
+	margin: 20px;
+}
+
+h1{
+	margin: 0;
 }
 
 h1, h2, p {
@@ -8,6 +36,11 @@ h1, h2, p {
 
 a{
 	text-decoration: none;
+}
+
+img{
+	margin: 40px 8px 40px 8px;
+	padding: auto 0;
 }
 
 .instructions{
@@ -23,5 +56,4 @@ a{
 
 .gameboard{
 	background: black;
-	/*background-image: url("images/card-table-background");*/
 }
